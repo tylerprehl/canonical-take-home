@@ -1,0 +1,7 @@
+@import "vanilla-framework";
+@include vf-base;
+@include vf-b-placeholders;
+
+hr.dotted {
+    height: 5px;
+}
