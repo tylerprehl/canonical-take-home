@@ -1,7 +1,7 @@
 @import "vanilla-framework";
-@include vf-base;
-@include vf-b-placeholders;
+@include vanilla;
 
-hr.dotted {
-    height: 5px;
+.huge {
+    font-size: 60px;
+    font-weight: bold;
 }
