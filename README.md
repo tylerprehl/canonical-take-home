@@ -5,9 +5,9 @@ This repository houses my code for the Canonical Take Home Test part of the appl
 1) Make a clone of the repo in your designated directory
 2) TBD
 
-### Take-aways
+### Takeaways
 <ul>
-<li>Setting up the Vanilla Framework is not as easy as following their <a href="https://vanillaframework.io/docs/building-vanilla">Building with Vanilla instructions</a></li>
+<li>Setting up the Vanilla Framework is not as easy as following the <a href="https://vanillaframework.io/docs/building-vanilla">Building with Vanilla instructions</a></li>
 <li>Using a framework like Vanilla is pretty astounding for quick design production. Once I got Webpack, JavaScript, and SASS finally started working together properly, it was astoundingly easy to use the various pieces of the framework (such as the card pattern).
 </ul>
 
