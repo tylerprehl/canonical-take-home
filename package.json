@@ -14,6 +14,10 @@
     "build-css": "sass -w --load-path=node_modules src:dist --style=compressed",
     "watch-css": "yarn build-css && sass --load-path=node_modules -w src:dist --style=compressed",
     "build": "webpack",
-    "start": "webpack serve --open"
+    "start": "webpack serve --open",
+    "watch:files": "onchange 'src/**/*' 'index.html' -- yarn build"
+  },
+  "devDependencies": {
+    "onchange": "^7.1.0"
   }
 }

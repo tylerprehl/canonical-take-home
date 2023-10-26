@@ -1,7 +1,68 @@
 @import "vanilla-framework";
 @include vanilla;
 
-.huge {
-    font-size: 60px;
-    font-weight: bold;
+body {
+    padding: 18px;
+}
+
+h4 {
+    margin: 0;
+}
+
+[class*=p-card] > p:not([class*=p-heading--]):last-child {
+    margin: 0;
+}
+
+p {
+    margin: 0;
+    padding: 12px 0; 
+}
+
+hr {
+    margin: 0;
+}
+
+.p-card {
+    border-radius: 4px;
+    border-top: 4px solid rgb(167, 124, 167);
+    padding-top: 0;
+    padding-bottom: 0;
+    box-shadow: 0 0 8px lightgrey;
+}
+
+.p-card__inner {
+    padding-top: 6px;
+    padding-bottom: 6px;
+    font-weight: 300;
+}
+
+.p-card__image {
+    margin: 0;
+    padding: 12px 0 0 0;
+}
+
+h4.title {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    font-size: 20px;
+    font-weight: 300;
+}
+
+h4.content {
+    font-size: 28px;
+}
+
+.italicized {
+    font-size: 18px;
+    font-style: italic;
+}
+
+.horizontal-padded {
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+.dotted {
+    border-top: 1px dotted lightgray;
+    background: none;
 }
