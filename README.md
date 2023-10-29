@@ -9,7 +9,8 @@ This repository houses my code for the Canonical Take Home Test part of the appl
 ### To Build Project
 1) Install yarn ```npm install --global yarn```
 2) Install webpack ```yarn add webpack webpack-cli```
-3) Run ```yarn start``` to serve the project on localhost:8080
+3) Run ```yarn build``` to build the project
+4) Run ```yarn start``` to serve the project on localhost:8080 (note - this may take a while)
 
 ### Takeaways
 <ul>
