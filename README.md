@@ -1,5 +1,5 @@
 # Canonical Take Home Test
-This repository houses my code for the Canonical Take Home Test part of the application process. The webpage produced can either be viewed (the easy way) by using the GitHub pages URL (https://tylerprehl.github.io/canonical-take-home/) or (the hard way) by following the "To Build Project" steps below to serve the project locally.
+This repository houses my code for the Canonical Take Home Test part of the application process. The webpage produced can either be viewed (the easy but imperfect way) by using the GitHub pages URL (https://tylerprehl.github.io/canonical-take-home/) or (the hard way) by following the "To Build Project" steps below to serve the project locally.
 
 ### Site Functionality
 1) Uses and API call to get data about various articles
