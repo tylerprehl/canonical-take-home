@@ -22,6 +22,10 @@ hr {
     margin: 0;
 }
 
+.row {
+    display: flex;
+}
+
 .p-card {
     border-radius: 4px;
     border-top: 4px solid rgb(167, 124, 167);
@@ -44,7 +48,7 @@ hr {
 h4.topic {
     padding-top: 12px;
     padding-bottom: 12px;
-    font-size: 20px;
+    font-size: 18px;
     font-weight: 300;
     text-transform: uppercase;
 }
