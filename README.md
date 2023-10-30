@@ -7,10 +7,11 @@ This repository houses my code for the Canonical Take Home Test part of the appl
 3) Displays the cards for the user to view/select as their leisure
 
 ### To Build Project
-1) Install yarn ```npm install --global yarn```
-2) Install webpack ```yarn add webpack webpack-cli```
-3) Run ```yarn build``` to build the project
-4) Run ```yarn start``` to serve the project on localhost:8080 (note - this may take a while)
+1) Clone the repo to get a local copy
+2) Install yarn ```npm install --global yarn```
+3) Inside the local repo location, install webpack ```yarn add webpack webpack-cli```
+4) Inside the local repo location, run ```yarn build``` to build the project
+5) Inside the local repo location, run ```yarn start``` to serve the project on localhost:8080 (note - this may take a while)
 
 ### Takeaways
 <ul>
