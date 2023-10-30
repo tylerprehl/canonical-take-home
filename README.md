@@ -15,7 +15,7 @@ This repository houses my code for the Canonical Take Home Test part of the appl
 ### Takeaways
 <ul>
 <li>Setting up the Vanilla Framework is not as easy as following the <a href="https://vanillaframework.io/docs/building-vanilla">Building with Vanilla instructions</a></li>
-<li>Using a framework like Vanilla is pretty astounding for quick design production. Once I got Webpack, JavaScript, and SASS finally started working together properly, it was astoundingly easy to use the various pieces of the framework (such as the card pattern). With that said, it starts to become difficult to make look nice and even when things are not standardized (such as image sizes).
+<li>Using a framework like Vanilla is pretty astounding for quick design production. Once I finally got Webpack, JavaScript, and SASS playing nicely together, it was astoundingly easy to use the various pieces of the framework (such as the card pattern). With that said, it starts to become difficult to make everything look nice and even when things are not standardized (such as image sizes).
 <li>JSON.Stringefy encloses the string in quotation marks, so trying to use said string as an absolute src path results in JavaScript thinking it's a relative path
 </ul>
 
